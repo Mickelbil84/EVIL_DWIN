@@ -1,0 +1,5 @@
+LCD_COM_Port = '/dev/ttyAML6'
+ENCODER_PIN_A = 26
+ENCODER_PIN_B = 19
+
+ROTARY_DELAY = 0.05
